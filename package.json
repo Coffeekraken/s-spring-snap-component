@@ -1,6 +1,6 @@
 {
   "name": "coffeekraken-s-spring-snap-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a cool snaping effect to the mouse from any element",
   "main": "dist/index.js",
   "homepage": "http://coffeekraken.io",
@@ -77,6 +77,7 @@
   },
   "dependencies": {
     "animejs": "^3.0.0",
+    "coffeekraken-s-icon-component": "^1.0.4",
     "coffeekraken-sugar": "^1.0.39"
   },
   "devDependencies": {
@@ -103,7 +104,7 @@
     "babel-core": "^7.0.0-bridge.0",
     "babel-jest": "^23.6.0",
     "babel-loader": "^8.0.0",
-    "coffeekraken-code-playground": "^1.0.0",
+    "coffeekraken-code-playground": "^1.0.19",
     "coffeekraken-docblock-to-markdown": "^1.0.0",
     "coffeekraken-s-typography-component": "^1.0.1",
     "coffeekraken-scripts-stack": "^1.0.1",

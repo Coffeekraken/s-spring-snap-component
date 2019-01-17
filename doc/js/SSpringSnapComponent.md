@@ -10,11 +10,18 @@ Type : **{ [Number](https://developer.mozilla.org/fr/docs/Web/JavaScript/Referen
 
 Default : **null**
 
-
 ## snapDistance
 
 Specify the distance of snaping
 
 Type : **{ [Number](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Number) }**
 
-Default : **null**
+Default : **10**
+
+## distanceDetectionMethod
+
+Distance detection method. Can be "circular" or "square"
+
+Type : **{ [String](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String) }**
+
+Default : **square**
